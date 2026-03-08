@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "aizenx-xai"
+version = "0.1.0"
+description = "AizenX - Explainable AI toolkit for model interpretability and fairness"
+authors = [
+    { name = "Bhageeratha Reddy" }
+]
+readme = "README.md"
+requires-python = ">=3.9"
+
+dependencies = [
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "matplotlib",
+    "seaborn",
+    "plotly",
+    "fastapi",
+    "uvicorn",
+    "python-multipart",
+    "streamlit",
+    "networkx"
+]
+
+[project.urls]
+Homepage = "https://github.com/kuppireddybhageerathareddy1110/aizenx"
+Repository = "https://github.com/kuppireddybhageerathareddy1110/aizenx"
+Issues = "https://github.com/kuppireddybhageerathareddy1110/aizenx/issues"
+
+[project.scripts]
+aizenx = "aizenx.cli:main"
