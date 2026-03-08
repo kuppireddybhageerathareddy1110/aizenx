@@ -8,6 +8,7 @@
 ![Forks](https://img.shields.io/github/forks/kuppireddybhageerathareddy1110/aizenx)
 ![Issues](https://img.shields.io/github/issues/kuppireddybhageerathareddy1110/aizenx)
 ![Last Commit](https://img.shields.io/github/last-commit/kuppireddybhageerathareddy1110/aizenx)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
 
 AizenX is a simple **Explainable AI (XAI) toolkit** that helps developers understand how machine learning models make decisions.
 
@@ -304,7 +305,65 @@ Bhageeratha Reddy
 
 ---
 
-# GitHub
 
+## 🌍 Open Source
+
+AizenX is a **fully open-source project** built to make **Explainable AI accessible to everyone**.
+
+Anyone can:
+
+* Use the library in their projects
+* Study the source code
+* Modify and improve the toolkit
+* Contribute new features
+* Report bugs or suggest improvements
+
+The goal of AizenX is to make **machine learning models transparent and understandable for everyone — from beginners to researchers**.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+If you'd like to improve AizenX:
+
+1. Fork the repository
+2. Create a new feature branch
+3. Commit your changes
+4. Submit a Pull Request
+
+Example:
+
+```bash
+git clone https://github.com/kuppireddybhageerathareddy1110/aizenx.git
+cd aizenx
+git checkout -b new-feature
+```
+
+---
+
+## 📜 License
+
+AizenX is released under the **MIT License**, which means it is free to use, modify, and distribute.
+
+See the `LICENSE` file for more details.
+
+---
+
+## ⭐ Support the Project
+
+If you find AizenX useful:
+
+* ⭐ Star the repository
+* 🐛 Report issues
+* 💡 Suggest new features
+* 🤝 Contribute code
+
+GitHub Repository:
 [https://github.com/kuppireddybhageerathareddy1110/aizenx](https://github.com/kuppireddybhageerathareddy1110/aizenx)
+
+---
+
+
 
